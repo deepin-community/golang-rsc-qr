@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-rsc-qr (0.0~git20161121.48b2ede-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non-maintainer upload.
+  * Disabling test-suite for now (Closes: #978296).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Daniel Baumann <daniel.baumann@progress-linux.org>  Tue, 02 Feb 2021 08:17:29 +0100
+
+golang-rsc-qr (0.0~git20161121.48b2ede-1) unstable; urgency=medium
+
+  * Initial release (Closes: #890197)
+
+ -- Michael Meskes <meskes@debian.org>  Sat, 10 Feb 2018 13:02:00 +0100
